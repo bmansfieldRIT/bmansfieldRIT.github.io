@@ -1,4 +1,4 @@
-Global Illumination Assignments and Projects
+##Global Illumination Assignments and Projects
 
-#Assignment 1
+###Assignment 1
 [Link](brianmansfield.me/assignment1)
