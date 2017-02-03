@@ -2,4 +2,4 @@
 
 ### Assignment 1
 [Link](/assignment_1.md)
-![Assignment 1] (https://octodex.github.com/images/yaktocat.png)
+![Assignment 1] (assignment1.png)
