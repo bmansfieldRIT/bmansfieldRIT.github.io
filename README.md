@@ -2,4 +2,4 @@
 
 ### Assignment 1
 [Link](/assignment1.md)
-(assignment1.png)
+![Assignment 1] (assignment1.png)
