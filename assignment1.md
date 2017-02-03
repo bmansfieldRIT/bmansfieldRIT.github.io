@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: jekyll-theme-midnight
 title: Assignment 1
 permalink: /assign1/
 ---
