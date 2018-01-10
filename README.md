@@ -17,6 +17,9 @@ Mostly because it was cheap and easy to set up through Github Pages. But also, t
 ### Why Does This Exist?
 I've gotten to the point where I've performed many mods and repairs to guitars of all kinds, and have developed into a halfway-decent guitarist myself. Now I hope to share some of the information I've learned over the years, and help others like me who want to learn more about guitar care and maintanence. There are great resources out there for guitar hackers and DIYers, but hopefully this page can stand out as a compendium of knowledge not found anywhere else.
 
+### TODOs For This Site:
+Add a resources section
+
 #### Topics In The Pipeline Include:
 ###### tips:
 	connecting two wires
