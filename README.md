@@ -128,6 +128,11 @@ Add a resources section
 		how to thread properly
 		stretching before tightening
 	blocking a guitar tremelo system
+	good practicing habits:
+		make sure you're practicing with full concentration
+		practicing pure finger strength exercises
+			like weights, it only improves speed and limberness
+			could do while watching tv
 	
 ###### repair:
 	replacing defective pots
