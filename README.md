@@ -1,8 +1,3 @@
----
-title: About
-layout: post
----
-
 # Brian's Guitar Website
 
 ### What This Is:
