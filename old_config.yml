@@ -1,0 +1,56 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Brian's Guitar Blog
+email: bmm3018@rit.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Find tips, tricks, and lessons for playing, repairing, and modifying all things Guitar!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://bmansfieldrit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: bmansfieldrit
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+ date_format:
+   title: "%B-%-d-%Y"
+   archive: "%b"
+   categories: "%b-%Y"
+   tag: "%b-%Y"
+ # Language
+ lan: "en"
+
+ paginate: 10
+
+ highlighter: rouge
+ markdown: kramdown
+ gems: ['jekyll-paginate']
+
+ exclude: ['README.md', 'LICENSE', "*.bak"]
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
