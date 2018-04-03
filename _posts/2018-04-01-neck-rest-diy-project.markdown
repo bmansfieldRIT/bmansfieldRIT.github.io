@@ -17,3 +17,5 @@ Final result:
 ![alt text](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/master/_images/2018-04-01 16.31.40.jpg "final neck rest")
 
 Not too bad! Looks much better, take up less space, and no more metal to possibly cause scratches.
+
+![alt text](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/master/_images/2018-04-01 16.31.00.jpg "neck rest")
