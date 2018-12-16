@@ -16,7 +16,7 @@
 title: Brian's Guitar Blog
 email: bmm3018@rit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Find tips, tricks, and lessons for playing, repairing, and modifying all things Guitar!
+  Documenting my guitar repairs and modifications.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bmansfieldrit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: bmansfieldrit
