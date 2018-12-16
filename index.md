@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-
+<ul>
 {% for post in site.posts %}
   <article>
     <h2>
@@ -16,3 +16,4 @@ layout: home
     {{ post.content }}
   </article>
 {% endfor %}
+</ul>
