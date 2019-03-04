@@ -77,24 +77,24 @@ After purchasing some thin clamps, I covered the guitar and bridge in glue, and 
 
 The guitar came with a nut, which mysteriously did not fit the guitar and was not attached. I sanded the nut down to fit the slot. 
 
-![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/blob/master/_images/RV70TcvgTha4ZlLhO5%25ZDQ_thumb_408.jpg "headstock restored")
+![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/master/_images/RV70TcvgTha4ZlLhO5%25ZDQ_thumb_408.jpg "headstock restored")
 
 Here is a view of the headstock after cleaning. I attempted to bend the truss rod cover into a flatter shape. It is rough, but workable.
 
-![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/blob/master/_images/UNADJUSTEDNONRAW_thumb_3c7.jpg "full view after restored")
+![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/master/_images/UNADJUSTEDNONRAW_thumb_3c7.jpg "full view after restored")
 
 Here are some photos of the guitar after a full clean and polish. It looks much better, and now only needs a new pickguard to be complete.
 
-![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/blob/master/_images/UNADJUSTEDNONRAW_thumb_3c8.jpg "full view after restored")
+![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/master/_images/UNADJUSTEDNONRAW_thumb_3c8.jpg "full view after restored")
 
-![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/blob/master/_images/UNADJUSTEDNONRAW_thumb_3ca.jpg "full view after restored")
+![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/master/_images/UNADJUSTEDNONRAW_thumb_3ca.jpg "full view after restored")
 
-![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/blob/master/_images/UNADJUSTEDNONRAW_thumb_3c6.jpg "full view after restored")
+![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/master/_images/UNADJUSTEDNONRAW_thumb_3c6.jpg "full view after restored")
 
-![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/blob/master/_images/UNADJUSTEDNONRAW_thumb_405.jpg "full view after restored")
+![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/master/_images/UNADJUSTEDNONRAW_thumb_405.jpg "full view after restored")
 
 A close up view of the fretboard shows that the rot was deep, but after scraping out and cleaning, not unmanagemable. The neck plays fine in this area, and amounts to a aesthetic blemish.
 
-![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/blob/master/_images/UNADJUSTEDNONRAW_thumb_404.jpg "full view after restored")
+![](https://raw.githubusercontent.com/bmansfieldRIT/bmansfieldRIT.github.io/master/_images/UNADJUSTEDNONRAW_thumb_404.jpg "full view after restored")
 
 At last, the restoration is complete! The pickguard has been added. Finding a replacement was harder than I anticipated, this being a guitar from the 60s, parts were scarce. I actually found a replacement truss rod cover as well, but I found it was not worth the 100$ price tag associated. This pickguard I found by laboriously searching for Framus parts, then giving up and simply crawling eBay for "vintage pickguards". Miraculously, I found an exact match. Well, almost. It may be hard to tell, but the pickguard, while almost certainly fromt he same model of guitar, is slightly smaller than the original. This may in fact be due to the changing properties of the material used for manufacturing pickguards, and their tendency to shrink over time, especially when not fixed in place on the guitar with screws. I did, unfortunately, have to drill new holes for the pickguard, which I did not want to do, but I saw no clear other alternative. The guitar looks much better, and has restored most of it's value lost by not having a pickguard. There is some overlap (underlap?) where the discoloration fo the previous pickguard can be seen near the neck, but I consider it a worthwhile tradeoff. 
